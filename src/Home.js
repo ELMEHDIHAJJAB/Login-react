@@ -4,8 +4,9 @@ import './styles.css';
 function Home() {
   return (
     <div className="container">
-      <h2>Home ASSIA</h2>
-      <p>KARAM ZWIML</p>
+      <h2>Home </h2>
+      <p>Welcome to the Home page!</p>
+      
     </div>
   );
 }
